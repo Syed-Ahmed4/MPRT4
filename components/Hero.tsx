@@ -62,11 +62,11 @@ const Hero: React.FC = () => {
           <div className="flex flex-col md:flex-row md:items-center gap-2 md:gap-4 mb-6 md:mb-8 text-[#A8A29E] uppercase tracking-[0.15em] text-xs md:text-sm font-medium">
              <span>Computer Science Engineer</span>
              <span className="hidden md:block w-1.5 h-1.5 bg-[#A8A29E] rounded-full"></span>
-             <span>Scientific Computing</span>
+             <span>AI Systems & Scientific Computing</span>
           </div>
 
-          <p className="text-lg md:text-3xl text-[#D6D1C7] font-light leading-snug mb-10 border-l-2 border-[#A8A29E] pl-6 md:pl-8 max-w-2xl">
-            Seeking Software & Research Internships for 2026
+          <p className="text-lg md:text-2xl text-[#D6D1C7] font-light leading-snug mb-10 border-l-2 border-[#A8A29E] pl-6 md:pl-8 max-w-2xl">
+            Building on-device ML workflows, computational solvers, and low-level systems. Seeking Software, AI & Research Internships for 2026.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 sm:gap-6">

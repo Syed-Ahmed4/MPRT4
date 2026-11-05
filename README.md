@@ -1,4 +1,4 @@
-# Syed Ahmed — Scientific Computing & Software Engineering Portfolio
+# Syed Ahmed — AI Systems, Scientific Computing & Software Engineering Portfolio
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-syed--ahmed.vercel.app-2C2A26?style=for-the-badge&logo=vercel&logoColor=white)](https://syed-ahmed.vercel.app)
 [![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -7,17 +7,17 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
-A clean, editorial-grade technical portfolio showcasing engineering simulations, numerical approximation suites, systems-level data structures, and computational physics projects. Built with modern web technologies, responsive warm minimalist aesthetics, an interactive AI assistant, and direct Web3Forms contact integration.
+A clean, editorial-grade technical portfolio showcasing on-device AI systems (**SevaLens** on Snapdragon® NPU), corporate credit appraisal (**Intelli.Credit**), numerical approximation suites, and low-level C memory implementations. Built with modern web technologies, responsive warm minimalist aesthetics, an interactive AI assistant, and direct Web3Forms contact integration.
 
 ---
 
 ## 🌟 Key Features
 
-- **Scientific Computing & Engineering Showcase**: Detailed case studies for numerical methods (Newton-Raphson, Euler's method, Simpson's rule), structural beam deflection modeling, 2D heat transfer simulations, and low-level memory/DSA implementations in C & Java.
-- **Dynamic Category Filtering**: Seamlessly filter projects across *Scientific Computing*, *Algorithms*, *Engineering*, and *Tools*.
+- **Authentic Engineering Showcase**: Detailed case studies for **SevaLens** (offline multilingual OCR & ID masking targeting Snapdragon NPU architectures via QNN), **Intelli.Credit** (corporate credit appraisal & DSCR calculation), numerical methods (Newton-Raphson, Euler, Simpson), beam deflection mechanics, and low-level memory/DSA implementations in C.
+- **Dynamic Category Filtering**: Seamlessly filter projects across *AI Systems*, *Financial Tech*, *Scientific Computing*, *Engineering*, and *Systems & Algorithms*.
 - **Interactive Project Shortlist**: Visitors and recruiters can bookmark projects to discuss, calculate custom technical scopes, and forward them directly in inquiries.
 - **Direct Contact & Inquiry Form**: Powered by [Web3Forms](https://web3forms.com/) for instant email delivery directly to the owner's inbox, with anti-spam honeypot verification, real-time loading states, one-click email copy, and direct telephone/social links.
-- **AI Portfolio Assistant**: Integrated conversational assistant powered by Google's `@google/genai` (Gemini 2.5 Flash) trained to answer visitor queries about Syed's coursework, technologies, projects, and 2026 internship availability.
+- **AI Portfolio Assistant**: Integrated conversational assistant powered by Google's `@google/genai` (Gemini 3.8 Flash) trained to answer visitor queries about Syed's coursework, technologies, projects, and 2026 internship availability.
 - **Dark & Light Mode Theme Toggle**: Instant, seamless switching between an artisanal warm minimalist cream palette (`#F5F2EB`) and an obsidian warm-charcoal dark theme (`#141311`), with automatic OS preference detection, persistent localStorage caching, and zero flicker on page load.
 - **Warm Editorial Aesthetic**: Crafted with bespoke typography (`Playfair Display` + `Inter`), custom neutral palette, and smooth scrolling navigation.
 - **Production-Ready Routing**: Configured with `vercel.json` rewrites and OpenGraph/JSON-LD schemas for search engines and social cards.
@@ -141,7 +141,7 @@ The included `vercel.json` ensures all nested URLs and page refreshes route seam
 
 - **Website**: [syed-ahmed.vercel.app](https://syed-ahmed.vercel.app)
 - **Email**: [syedahmedsda@gmail.com](mailto:syedahmedsda@gmail.com)
-- **LinkedIn**: [linkedin.com/in/syedahmed-/](https://www.linkedin.com/in/syedahmed-/)
+- **LinkedIn**: [linkedin.com/in/syed-ahmed4/](https://www.linkedin.com/in/syed-ahmed4/)
 - **GitHub**: [github.com/Syed-Ahmed4](https://github.com/Syed-Ahmed4)
 
 ---

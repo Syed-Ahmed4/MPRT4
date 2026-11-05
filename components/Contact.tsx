@@ -27,8 +27,8 @@ const Contact: React.FC = () => {
 
   const predefinedSubjects = [
     '2026 Internship',
+    'On-Device AI / SevaLens',
     'Scientific Computing',
-    'Algorithmic Research',
     'General Inquiry'
   ];
 

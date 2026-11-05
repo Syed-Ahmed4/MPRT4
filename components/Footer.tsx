@@ -19,7 +19,7 @@ const Footer: React.FC<FooterProps> = ({ onLinkClick }) => {
         <div className="md:col-span-4">
           <h4 className="text-2xl font-serif text-[#2C2A26] dark:text-[#E8E4DA] mb-6">Syed Ahmed</h4>
           <p className="max-w-xs font-light leading-relaxed">
-            Computer Science Engineer specializing in Scientific Computing and Software Development.
+            Computer Science Engineer specializing in AI Systems, Scientific Computing and Software Development.
             <br/>Hyderabad, India.
           </p>
         </div>
@@ -51,7 +51,7 @@ const Footer: React.FC<FooterProps> = ({ onLinkClick }) => {
                  <span className="text-sm font-medium text-[#2C2A26] dark:text-[#E8E4DA]">Seeking Internships: 2026</span>
              </div>
              <p className="text-sm font-light opacity-80">
-                 Currently exploring Numerical Methods & Data Structures.
+                 Currently building on-device AI (SevaLens) & exploring Snapdragon NPU acceleration.
              </p>
           </div>
         </div>
